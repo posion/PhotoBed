@@ -1,4 +1,3 @@
 # PhotoBed
-photo bed
-/br
+photo bed /br
 #only for personal use#
